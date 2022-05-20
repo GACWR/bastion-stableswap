@@ -1,0 +1,13 @@
+{
+  "name": "bastion-stableswap",
+  "version": "1.0.0",
+  "description": "Bastion Stableswap, the low-slippage AMM for stablecoins, cTokens, wrapped, and staked assets on Aurora.",
+  "keywords": [],
+  "author": "bastionprotocol",
+  "license": "ISC",
+  "dependencies": {
+    "@boringcrypto/boring-solidity-e06e943": "boringcrypto/BoringSolidity#e06e943",
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/contracts-upgradeable": "^3.4.1"
+  }
+}
